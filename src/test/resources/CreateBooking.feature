@@ -1,4 +1,4 @@
-Feature: Kullanici olarak otel rezervasyonu olusturabilirim
+Feature: API Feature
 
   Scenario: User can be hotel booking and deleting booking
     Given User creates new reservation
