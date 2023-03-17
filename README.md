@@ -2,7 +2,7 @@
  Booking Reservation Basic API Project
 </div>
 
-# SELENIUM & Cucumber & RestfulAPI & Cucumber Reports
+# SELENIUM & Cucumber & RestfulAPI & Report
 
 # Scenerio: User can be hotel CRUD operation 
     Given User creates new reservation
